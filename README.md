@@ -124,7 +124,7 @@ The project will utilize Real Estate data from Zillow Research.
 
 * Other research may also be needed eg PESTEL analysis to complement the model findings.
 
-## 7.0 Next Steps
+## 8.0 Next Steps
 * Though this project focused on one zip code for model building, we propose further work in creating and running predictive models for all the top 10 zip codes to compare and assess which zipcodes are likely to have the best performance in the future based on the predictive models.
   
 * In the future, apart from using the value of the property for the Time Series modeling, we can also incorporate into the models, other factors such as proximity to facilities like schools and hospitals; social & economic factors such as pandemics; crime rate of the area; development rate of the area just to mention a few.
