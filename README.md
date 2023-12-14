@@ -1,4 +1,7 @@
 # Group26_Ph4_Project_Real_Estate_Value_Prediction_for_Different_Locations
+
+![WhatsApp Image 2023-12-14 at 23 46 05_82d8b4c6](https://github.com/NdanuM/Group26_Ph4_Project_Real_Estate_Value_Prediction_for_Different_Locations/assets/54804370/9116c4ac-5a54-431c-9044-a3645bc266b3)
+
 ## 1.0 Business Understanding
 
 MDN real estate investment firm is currently looking to expand its horizons and invest in different locations that are predicted to do well in the next few years. The company wants to do their due diligence and have data drive their decisions
